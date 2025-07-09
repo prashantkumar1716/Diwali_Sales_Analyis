@@ -51,16 +51,16 @@ Products in Clothing & Apparel and Food & Beverage categories dominate sales.
 
 The analysis highlights demographic segments that can be targeted in future marketing campaigns.
 
-  📂 Folder Structure
+    📂 Folder Structure
 bash
 Copy
 Edit
-   📁 Diwali_Sales_Analysis/
+     📁 Diwali_Sales_Analysis/
 │
 ├── Diwali_Sales_Analysis.ipynb  # Main analysis notebook
 ├── README.md                    # Project overview
 └── dataset/                     # (Optional: raw or cleaned data)
-🚀 How to Run
+    🚀 How to Run
 Clone the repository:
 
 bash
@@ -71,17 +71,17 @@ Open the notebook in Jupyter or VS Code.
 
 Run all cells to reproduce the analysis.
 
-  💡 Future Improvements
+     💡 Future Improvements
 Implement a dashboard using Power BI or Tableau.
 
 Perform predictive analysis using machine learning models.
 
 Integrate more granular time-series data for better insights.
 
-  🙌 Acknowledgements
+      🙌 Acknowledgements
 Special thanks to the creators of the dataset and the open-source community that supports tools like pandas, seaborn, and Jupyter.
 
-  📝 License
+      📝 License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with proper attribution.
 
